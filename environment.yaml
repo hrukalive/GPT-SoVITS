@@ -1,4 +1,4 @@
-name: tts
+name: tts-gptsovits2
 channels:
   - defaults
 dependencies:
